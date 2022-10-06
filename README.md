@@ -2,6 +2,7 @@
 <h5 align="center">
 I am a professional working majorly with trading and investment banking domain. I majorly work on java. Also, love leetcode.
 </h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=penguinmishra&label=Profile%20views&color=0e75b6&style=flat" alt="penguinmishra" /> </p>
 
 Languages and tools
 ---
@@ -11,9 +12,6 @@ Languages and tools
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="60" height="50">](https://www.docker.com/)
 [<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" alt="STS" width="50" height="50">](https://spring.io/tools)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=penguinmishra&label=Profile%20views&color=0e75b6&style=flat" alt="penguinmishra" /> </p>
 
 Connect with me
 ---
