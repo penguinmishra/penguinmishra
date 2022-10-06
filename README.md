@@ -3,7 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/teenPaanch" target="blank"><img src="https://img.shields.io/twitter/follow/teenPaanch?logo=twitter&style=for-the-badge" alt="teenPaanch" /></a> </p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=penguinmishra&theme=gruvbox&hide_border=true
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
 <a href="https://github.com/penguinmishra"><img alt="penguinmishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=penguinmishra&custom_title=Rahul's%20Contribution%20Graph&theme=react-dark" /></a>
 
