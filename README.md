@@ -7,13 +7,14 @@ I am a professional working majorly with trading and investment banking domain. 
 
 Languages and tools
 ---
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="50" height="50">](https://docs.oracle.com/en/java/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="java" width="50" height="50">](https://aws.amazon.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="AWS" width="50" height="50">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="50" height="50">](https://docs.python.org/3/library/index.html)
 [<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="50" height="50">](https://golang.org/doc/)
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="60" height="50">](https://www.docker.com/)
 [<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" alt="STS" width="50" height="50">](https://spring.io/tools)
-[<img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="STS" width="50" height="50">](https://www.oracle.com/in/database/sqldeveloper/)
+[<img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="STS" width="40" height="50">](https://www.oracle.com/in/database/sqldeveloper/)
 
 Connect with me
 ---
