@@ -10,13 +10,10 @@ Connect with me
 
 ## My Statistics
 
-<br/>
-<p align="left">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=penguinmishra&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
 
-<br>
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=penguinmishra&show_icons=true&theme=tokyonight)
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=penguinmishra&theme=gruvbox&hide_border=true" />
+![Rahul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penguinmishra&theme=tokyonight&layout=compact)
 
 My Git Heatmap & Graph
 ---
