@@ -14,7 +14,11 @@ Languages and tools
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="60" height="50">](https://www.docker.com/)
 [<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" alt="STS" width="50" height="50">](https://spring.io/tools)
-[<img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="STS" width="40" height="50">](https://www.oracle.com/in/database/sqldeveloper/)
+[<img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="Oracle SQL Developer" width="40" height="50">](https://www.oracle.com/in/database/sqldeveloper/)
+[<img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="Spring Boot" width="50" height="50">](https://spring.io/projects/spring-boot)
+[<img src="https://img.icons8.com/color/452/elasticsearch.png" alt="ElasticSearch" width="50" height="50">](https://www.elastic.co/what-is/elasticsearch)
+[<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">](https://git-scm.com/doc)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="BitBucket" width="50" height="50">](https://bitbucket.org/product)
 
 Connect with me
 ---
