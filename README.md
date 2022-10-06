@@ -14,3 +14,7 @@
 
 <a href="https://github.com/penguinmishra"><img alt="penguinmishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=penguinmishra&custom_title=Rahul's%20Contribution%20Graph&theme=react-dark" /></a>
 
+<div align=center>
+    <img src="https://raw.githubusercontent.com/penguinmishra/penguinmishra/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
