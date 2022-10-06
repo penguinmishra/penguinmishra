@@ -15,7 +15,7 @@ Languages and tools
 
 Connect with me
 ---
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:penguinmishra@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="65">](mailto:penguinmishra@gmail.com)
 <a href="https://twitter.com/teenPaanch" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="teenPaanch" width="60" height="60"/></a>
 
 ## My Statistics
