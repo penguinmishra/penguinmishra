@@ -13,11 +13,13 @@ Languages and tools
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="60" height="50">](https://www.docker.com/)
 [<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" alt="STS" width="50" height="50">](https://spring.io/tools)
+[<img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="STS" width="50" height="50">](https://www.oracle.com/in/database/sqldeveloper/)
 
 Connect with me
 ---
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="65">](mailto:penguinmishra@gmail.com)
-<a href="https://twitter.com/teenPaanch" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="teenPaanch" width="60" height="60"/></a>
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" width="50" height="50">](mailto:penguinmishra@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/179/179345.png" alt="Yahoo! Mail" width="50" height="50">](mailto:rahulmishra63@yahoo.com)
+<a href="https://twitter.com/teenPaanch" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="teenPaanch" width="50" height="50"/></a>
 
 ## My Statistics
 
