@@ -6,7 +6,7 @@ Connect with me
 
 <p align="left"> <a href="https://twitter.com/teenPaanch" target="blank"><img src="https://img.shields.io/twitter/follow/teenPaanch?logo=twitter&style=for-the-badge" alt="teenPaanch" /></a> </p>
 
-📫 Connect with me on **penguinmishra@gmail.com**
+📫 [![Gmail Badge](https://img.shields.io/badge/-penguinmishra@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:penguinmishra@gmail.com)](penguinmishra@gmail.com)
 
 ## My Statistics
 
@@ -15,6 +15,7 @@ Connect with me
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=penguinmishra&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+
 <br>
 
 My Git Heatmap & Graph
