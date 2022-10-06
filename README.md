@@ -5,4 +5,3 @@
 
 <a href="https://github.com/penguinmishra"><img alt="penguinmishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=penguinmishra&custom_title=Rahul's%20Contribution%20Graph&theme=react-dark" /></a>
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=penguinmishra)](https://github.com/penguinmishra/github-readme-stats)
