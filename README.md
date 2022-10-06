@@ -3,7 +3,4 @@
 
 <p align="left"> <a href="https://twitter.com/teenPaanch" target="blank"><img src="https://img.shields.io/twitter/follow/teenPaanch?logo=twitter&style=for-the-badge" alt="teenPaanch" /></a> </p>
 
-<div align="center">
-  <img  src="https://github.com/penguinmishra/penguinmishra/raw/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<a href="https://github.com/penguinmishra"><img alt="penguinmishra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=penguinmishra&custom_title=Rahul's%20Contribution%20Graph&theme=react-dark" /></a>
