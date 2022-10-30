@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</a></h1>
 <h5 align="center">
-I am a professional working majorly with trading and investment banking domain. I majorly work on java. Also, love leetcode.
+I am a professional working majorly with trading and investment banking domain. I majorly work on java.
 </h5>
 
 <img src="https://komarev.com/ghpvc/?username=penguinmishra&label=Profile%20views&color=0e75b6&style=flat" alt="penguinmishra" />![GitHub followers](https://img.shields.io/github/followers/penguinmishra?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/penguinmishra?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=penguinmishra.repoName)
